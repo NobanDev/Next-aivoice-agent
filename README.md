@@ -120,8 +120,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Tony**
-- GitHub: [@tony-42069](https://github.com/tony-42069)
+**NobanDev**
+- GitHub: [@NobanDev](https://github.com/NobanDev)
 
 ## 🙏 Acknowledgments
 
